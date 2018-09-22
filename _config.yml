@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Test Account"
+title                    : "Bryan Wodi"
 title_separator          : "-"
-name                     : &name "Dr. Test Account"
-description              : &description "Research scientist at Test University"
-url                      : https://getorg-testacct.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Bryan Wodi"
+description              : &description "M.Sc. student at the University of Manitoba."
+url                      : http://www.cs.umanitoba.ca/~wodi # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "getorg-testacct.github.io"
+repository               : "talk2bryan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Test Account"
+  name             : "Bryan Wodi"
   avatar           : "profile.png"
-  bio              : "Research scientist at Test University, expert in all things test and account related"
-  location         : "Test, California"
+  bio              : "M.Sc. student in the  Computer Science Department at the University of Manitoba. Currently under the advisement of Dr. Carson K. Leung from the Databeses and Data Mining Laboratory."
+  location         : "Winnipeg, Manitoba"
   employer         : 
-  googlescholar    : "http://scholar.google.com/this-is-a-test"
-  email            : 
+  googlescholar    : "https://scholar.google.ca/citations?user=rDiIWTQAAAAJ&hl=en"
+  email            : "wodi@cs.umanitoba.ca"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,19 +91,19 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "getorg-testacct"
+  github           : "talk2bryan"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/testaccount"
+  linkedin         : "https://www.linkedin.com/in/bryanwodi/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "testaccount-this-is-fake"
+  twitter          : "talktobryan"
   vine             :
   weibo            :
   xing             :
