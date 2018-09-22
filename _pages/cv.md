@@ -11,21 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in Testing Science, Testing University, 2012
-* M.S. in Testonomy, Testing University, 2014
-* Ph.D in Testology, Testing University, 2017 (expected)
+* B.Sc. in Computer Science, University of Manitoba, 2018
+* M.Sc. in Computer Science, University of Manitoba, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Testing University
-  * Duties included: Running Tests
-  * Supervisor: Professor Travis
+* Fall 2018: Teaching Assistant
+  * Dept. of Computer Science, University of Manitoba
+  * Duties include:
+    * Conducting class tutorials, debugging students’ code, and evaluating submissions.
 
-* Fall 2015: Research Assistant
-  * Testing University
-  * Duties included: Running Tests
-  * Supervisor: Professor Travis
+* Summer 2018: Software Engineer Co-Op (Co-op Work Term III)
+  * Electronic Arts
+  * Duties included:
+    * Maintained and created tools for the content delivery pipeline.
+    * Validated Live content data, as well as system failures from a prioritized backlog.
+
+* Fall 2014 - Winter 2018: Teaching Assistant
+  * Dept. of Computer Science, University of Manitoba
+  * Courses are listed in detail in the [Teaching](site.teaching) tab.
+
+* Summer 2017: Research Assistant (Co-op Work Term II)
+  * Database & Data Mining Laboratory, University of Manitoba
+  * Duties included: Created an orientation-free frequent pattern visualizer for Big Data, using D3.js. The goal was to enhance collaboration among users which, from my research on other visualization tools, was a common limitation.
+  * Supervisor: [Dr. Carson K. Leung](http://www.cs.umanitoba.ca/~kleung/ "Dr. Carson K. Leung's Homepage")
+
+* Winter 2017: Software Engineering Intern (Co-op Work Term I)
+  * Google Inc.
+  * Duties included:
+    * Created a dashboard to view/query usage, demand, and supply of resources (cpu, disk, millicpu, milligpu) across clusters in different regions. 
+    * Facilitated content migration by providing an export feature of said data to spreadsheets.
   
 Skills
 ======
