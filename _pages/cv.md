@@ -29,7 +29,7 @@ Work experience
 
 * Fall 2014 - Winter 2018: Teaching Assistant
   * Dept. of Computer Science, University of Manitoba
-  * Courses are listed in detail in the <u><a href="{{site.teaching}}">Teaching</a> tab.</u>
+  * Courses are listed in detail in the <u><a href="{{collections.teaching}}">Teaching</a> tab.</u>
 
 * Summer 2017: Research Assistant (Co-op Work Term II)
   * Database & Data Mining Laboratory, University of Manitoba
