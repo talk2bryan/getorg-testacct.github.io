@@ -62,7 +62,6 @@ Skills
 Publications
 ======
 {% if site.author.googlescholar %}
-  * You can find my articles on [my Google Scholar profile]("{{site.author.googlescholar}}")
   * You can find my articles on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
