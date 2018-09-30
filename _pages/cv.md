@@ -61,6 +61,10 @@ Skills
 
 Publications
 ======
+  {% if site.author.googlescholar %}
+    You can find my articles on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
+  {% endif %}
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
