@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Computer Science (Major Co-op), University of Manitoba, 2018
+* M.Sc. in Computer Science, University of Manitoba, 2020 (expected)
+
+* B.Sc. in Computer Science (Major Co-Op), University of Manitoba, 2018
   * Computer Science concentrations in Software Engineering and Databases
   * Minors in Economics and Statistics
-* M.Sc. in Computer Science, University of Manitoba, 2020 (expected)
 
 Work experience
 ======
@@ -29,7 +30,7 @@ Work experience
 
 * Fall 2014 - Winter 2018: Teaching Assistant
   * Dept. of Computer Science, University of Manitoba
-    * Courses are listed in detail in the <u><a href="{{collections.teaching}}">Teaching</a></u> tab.
+    * Courses are listed in detail in the Teaching Assistant Roles tab.
 
 * Summer 2017: Research Assistant (Co-op Work Term II)
   * Database & Data Mining Laboratory, University of Manitoba
@@ -50,13 +51,13 @@ Skills
 * Databases
   * MySQL, HSQLDB
 * DevOps
-  * Nginx, AWS, Docker, Vagrant, Capistrano
+  * Nginx, AWS, Docker, Vagrant, Capistrano, TravisCI
 * Operating Systems
   * \*nix, Windows
 * Version Control
   * Git, Perforce, svn
 * Miscellenous
-  * Jira, TravisCI, JProfiler, OpenCV, gdb, intelliJ, VS Code
+  * Jira, JProfiler, OpenCV, gdb, intelliJ, VS Code
 
 Publications
 ======
@@ -65,7 +66,7 @@ Publications
   {% endfor %}</ul>
   
   
-Teaching
+Teaching Assistant Roles
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
